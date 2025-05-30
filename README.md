@@ -2,6 +2,7 @@
 💻 currently working as a software engineering intern at Arpsist, a leader in digital security and infrastructure  
 🎓 studying Software Engineering and passionate about mobile development and cybersecurity  
 🛠️ experienced in REST API development, automation with C#, and network integration with Fortinet | Extreme | Ruckus
+
 🎖️ awarded in the Brazilian Army for outstanding IT service, mapping the entire 7th Military Region  
 🏐 volleyball enthusiast – played professionally for the Army team in regional championships  
 🚀 aiming to become a Tech Lead and lead challenging, high-impact projects  
