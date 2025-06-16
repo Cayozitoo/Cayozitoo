@@ -23,5 +23,4 @@
 ![](https://streak-stats.demolab.com/?user=Cayozitoo&theme=dark&hide_border=false)  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Cayozitoo&theme=dark&hide_border=false&layout=compact)  
 
-## 🚀 Meu lema:
 _"Automatizar o chato, codar o impossível e aprender todos os dias."_ 💻
